@@ -1,4 +1,4 @@
-# Furation_Tech_Solutions => Backend Development assessment solution
+# Backend Development assessment solution
 
 ## For Creating new Tour:(POST request)
 ### http://localhost:8000/api/v1/tours
